@@ -1,2 +1,3 @@
 # gitforking
-# how to generate pr request?
+# How do I generate PR requests?
+# resolving merge conflict with branches
